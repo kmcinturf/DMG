@@ -1,0 +1,57 @@
+feature_id,DeploymentID,timestamp_gmt,latitude,longitude,sats_used,residual
+81333,Davis,8/4/2014 20:25,38.5449,-121.7405,9,Davis
+,Outside of California,,44.409286,-68.247501,,Acadia NP
+,Outside of California,,38.72261844,-109.5863666,,Arches NP
+,Outside of California,,43.68584846,-102.482942,,Badlands NP
+,Outside of California,,29.29817767,-103.2297897,,Big Bend NP
+,Outside of California,,25.490587,-80.21023851,,Biscayne NP
+,Outside of California,,38.57779869,-107.7242756,,Black Canyon of the Gunnison NP
+,Outside of California,,37.58399144,-112.1826689,,Bryce Canyon NP
+,Outside of California,,38.24555783,-109.8801624,,Canyonlands NP
+,Outside of California,,38.28216531,-111.2470484,,Capitol Reef NP
+,Outside of California,,32.14089463,-104.5529688,,Carlsbad Caverns NP
+,California,,33.98680093,-119.9112735,,Channel Islands NP
+,Outside of California,,33.79187523,-80.74867805,,Congaree NP
+,Outside of California,,42.94065854,-122.1338414,,Crater Lake NP
+,Outside of California,,41.26093905,-81.57116722,,Cuyahoga Valley NP
+,California,,36.48753731,-117.134395,,Death Valley NP
+,Outside of California,,24.628741,-82.87319,,Dry Tortugas NP
+,Outside of California,,25.37294225,-80.88200301,,Everglades NP
+,Outside of California,,38.6258069,-90.1892508,,Gateway Arch NP
+,Outside of California,,48.68414678,-113.8009306,,Glacier NP
+,Outside of California,,36.00011653,-112.1215164,,Grand Canyon NP
+,Outside of California,,43.81853565,-110.7054666,,Grand Teton NP
+,Outside of California,,38.94617378,-114.2579782,,Great Basin NP
+,Outside of California,,35.60116374,-83.50818326,,Great Smoky Mountains NP
+,Outside of California,,31.92304462,-104.885527,,Guadalupe Mountains NP
+,Outside of California,,20.70693015,-156.1591775,,Haleakala NP
+,Outside of California,,19.3355036,-155.4700257,,Hawaii Volcanoes NP
+,Outside of California,,34.52414366,-93.06332936,,Hot Springs NP
+,Outside of California,,41.63765525,-87.09647445,,Indiana Dunes NP
+,Outside of California,,48.01145819,-88.82780657,,Isle Royale NP
+,California,,33.91418525,-115.8398125,,Joshua Tree NP
+,Outside of California,,59.81804414,-150.106502,,Kenai Fjords NP
+,Outside of California,,67.35631336,-159.2002293,,Kobuk Valley NP
+,California,,40.49354575,-121.4075993,,Lassen Volcanic NP
+,Outside of California,,37.19760458,-86.13090198,,Mammoth Cave NP
+,Outside of California,,37.23908345,-108.4624032,,Mesa Verde NP
+,Outside of California,,46.86075416,-121.7043885,,Mount Rainier NP
+,Outside of California,,48.71171756,-121.2069423,,North Cascades NP
+,Outside of California,,47.80392754,-123.6663848,,Olympic NP
+,Outside of California,,34.98387664,-109.7877678,,Petrified Forest NP
+,California,,36.49029208,-121.1813607,,Pinnacles NP
+,Outside of California,,40.3556924,-105.6972879,,Rocky Mountain NP
+,Outside of California,,32.20909636,-110.7574974,,Saguaro NP
+,California,,36.71277299,-118.587429,,Sequoia NP
+,Outside of California,,38.49236644,-78.46907715,,Shenandoah NP
+,Outside of California,,47.17777274,-103.4300083,,Theodore Roosevelt NP
+,Outside of California,,18.34279656,-64.74194451,,Virgin Islands NP
+,Outside of California,,48.48370609,-92.8382913,,Voyageurs NP
+,Outside of California,,32.77907858,-106.3333461,,White Sands NP
+,Outside of California,,43.58012365,-103.4394709,,Wind Cave NP
+,Outside of California,,44.59824417,-110.5471695,,Yellowstone NP
+,California,,37.84883288,-119.5571873,,Yosemite NP
+,Outside of California,,37.29839254,-113.0265138,,Zion NP
+,California,,41.2132,-124.0046,,Redwoods NP/SP
+,California,,38.0512,-122.8663,,Point Reyes NS
+,Outside of California,,37.733,-105.5125,,Great Sand Dunes NP
